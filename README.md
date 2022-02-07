@@ -1,3 +1,9 @@
+# Reusable Toggler
+This is a reusable input component made with React and React Hooks. It changes the states from true/false through props and functions. You can thus change the input text of true/false states universally. 
+![Screenshot 2022-02-07 164710](https://user-images.githubusercontent.com/87696858/152813595-d5733619-b354-44ea-8c8a-1f82ed7a94e3.png)
+![Screenshot 2022-02-07 164718](https://user-images.githubusercontent.com/87696858/152813606-9de33adb-0ef9-44fe-be82-0eb41bd87f4a.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
